@@ -1,3 +1,5 @@
+package gameserver.combatclass;
+
 public class Rogue extends CombatClass
 {
 	public Rogue()

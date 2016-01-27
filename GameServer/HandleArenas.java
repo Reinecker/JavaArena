@@ -1,3 +1,5 @@
+package gameserver;
+
 public class HandleArenas implements Runnable
 {
 	Thread t;

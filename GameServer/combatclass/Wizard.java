@@ -1,3 +1,5 @@
+package gameserver.combatclass;
+
 public class Wizard extends CombatClass
 {
 	public Wizard()

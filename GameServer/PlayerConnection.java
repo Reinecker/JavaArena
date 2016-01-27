@@ -1,6 +1,10 @@
+package gameserver;
+
 import java.net.*;
 import java.io.*;
 import java.util.*;
+import gameserver.combatclass.*;
+import gameserver.screen.*;
 
 public class PlayerConnection implements Runnable
 {

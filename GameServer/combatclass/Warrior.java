@@ -1,3 +1,5 @@
+package gameserver.combatclass;
+
 public class Warrior extends CombatClass
 {
 	public Warrior()

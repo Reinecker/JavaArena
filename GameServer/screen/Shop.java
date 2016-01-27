@@ -1,4 +1,7 @@
+package gameserver.screen;
+
 import java.io.*;
+import gameserver.*;
 
 public class Shop
 {

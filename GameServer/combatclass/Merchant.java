@@ -1,3 +1,5 @@
+package gameserver.combatclass;
+
 public class Merchant extends CombatClass
 {
 	public Merchant()

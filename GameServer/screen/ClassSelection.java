@@ -1,4 +1,8 @@
+package gameserver.screen;
+
 import java.io.*;
+import gameserver.combatclass.*;
+import gameserver.*;
 
 public class ClassSelection
 {
