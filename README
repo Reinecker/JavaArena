@@ -1,0 +1,12 @@
+A text based multiplayer "arena" game written in Java where player's fight each other.
+Currently the items, classes, and special abilities are not balanced in any sort of way.
+
+Usage:
+The game server or client can be compiled by navigating to either the GameClient or GameServer directory and inputting:
+javac *.java
+
+After compilation, the server can be used with the command:
+java GameServer <port to run on>
+
+After compilation, the client can be used with the command:
+java GameClient <ip of server> <port of server>
